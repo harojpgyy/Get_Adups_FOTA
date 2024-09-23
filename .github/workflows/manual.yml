@@ -15,5 +15,6 @@ jobs:
  
       - name: Run
         run: |
+         sudo apt install python-pip pip3
          pip install tbm13-utils
          python3 ota.py
