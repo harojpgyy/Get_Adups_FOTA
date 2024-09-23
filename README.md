@@ -1,7 +1,6 @@
 adups (Adups) http://www.adups.com/
 ### Searching, downloading & applying updates
-* To search for updates, use the `adups_search_updates.py` script (note that it requires the `tbm13_utils` package).
-    Examples
+
   * It'll search updates for the `TBT8A10` tablet, but you can use it for other devices by changing its variables to match your device's props
     ```python
     RO_FOTA_OEM = 'incartech3326_10.0'
