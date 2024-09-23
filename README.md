@@ -1,3 +1,5 @@
+Preface: adups (Adups) http://www.adups.com/
+Wireless Update (white icon on green background)
 This repository contains:
 * `adups_search_updates.py`: A script that can search for new updates.
 * `original_apk`: The decompiled original APK that searches for updates on the stock ROM.
