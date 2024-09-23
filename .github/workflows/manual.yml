@@ -31,7 +31,7 @@ jobs:
     - name: Send greeting
       run: |
        sudo apt update
-       sudo apt -y install python3 python-pip python3-pip cpio wget
+       sudo apt -y install python3 python3-pip wget
        pip install tbm13-utils
        wget https://github.com/harojpgyy/adups-fota/blob/master/adups_search_updates.py
        Python3 adups_search_updates.py
