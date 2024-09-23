@@ -3,13 +3,19 @@ name: Manual workflow
 on:
   workflow_dispatch:
   
-jobs:
-  run-python-script:
+jobs: 
+  run_demo_actions:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+    steps: 
+      - name: Checkout code
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v3
         with:
-          python-version: '3.8.0'
-      - run: pip install requests
-      - run: python ota.py
+          python-version: '3.9'
+ 
+      - name: Run
+        run: |
+         pip install tbm13-utils
+         python3 ota.py
