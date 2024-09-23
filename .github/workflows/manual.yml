@@ -8,13 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
      
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.9'
- 
       - name: Run
         run: |
-         sudo apt install python-pip pip3
+         sudo apt install python3 python-pip pip
          pip install tbm13-utils
          python3 ota.py
