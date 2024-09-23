@@ -1,5 +1,5 @@
 [adups](http://www.adups.com/)
-### ![cropped-Adups-768x174-1](https://github.com/user-attachments/assets/c8f42da3-425f-433e-bc0f-e2f86ab7f2dc)
+### ![cropped-Adups-768x174-1](https://github.com/user-attachments/assets/c8f42da3-425f-433e-bc0f-e2f86ab7f2dc)(http://www.adups.com/)
 ![icon](https://github.com/user-attachments/assets/75f25f91-2b3c-4a5b-9295-8f25a922b612)
 
 
