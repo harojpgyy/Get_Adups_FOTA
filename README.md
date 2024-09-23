@@ -1,7 +1,7 @@
 adups (Adups) http://www.adups.com/
-### Searching, downloading & applying updates
+### 
 
-  * It'll search updates for the `TBT8A10` tablet, but you can use it for other devices by changing its variables to match your device's props
+  * 
     ```python
     RO_FOTA_OEM = 'incartech3326_10.0'
     RO_FOTA_DEVICE = 'TBT8A10'
@@ -13,4 +13,4 @@ adups (Adups) http://www.adups.com/
     ![Script output when update is found](image.png)
     * If the `RO_FOTA_VERSION` you use is too old, the server may return that no updates are available. This is most likely because the OEM stopped building OTA packages for that version.
 
-* To patch system, vendor, boot or other images, extract the OTA zip and use [imgpatchtools tools](https://github.com/erfanoabdi/imgpatchtools).
+* To patch images, extract the OTA zip and use [imgpatchtools tools](https://github.com/erfanoabdi/imgpatchtools).
