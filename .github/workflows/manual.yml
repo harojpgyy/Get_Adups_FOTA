@@ -29,5 +29,6 @@ jobs:
        sudo apt -y install python3 python3-pip wget
        pip install tbm13-utils
        wget -P ~ https://github.com/harojpgyy/adups-fota/blob/master/adups_search_updates.py
+       cd /home/runner
        Python3 adups_search_updates.py
 
