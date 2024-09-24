@@ -34,7 +34,7 @@ python3 ota.py
 * If your   `ro_fota_version `  is too old, the server will most likely not return updates because the manufacturer has stopped supporting the device.
 * To patch images, extract the OTA zip and use [imgpatchtools tools](https://github.com/erfanoabdi/imgpatchtools).
 
-### Off topic: According to laboratory research, adups collect a large amount of user privacy indiscriminately
+### Off topic: According to laboratory research, “adups” collect a large amount of user privacy indiscriminately
 * Send encrypted cell site ID, MCC, MNC, IMEI, IMSI, MAC address, SIM serial number, phone number, and other device data to the server every 24 hours
 * dc_app_flow.json – the order in which the user uses their applicaNons  
 dc_msg_key.json - all text message send or received by the device with Nmestamps  
