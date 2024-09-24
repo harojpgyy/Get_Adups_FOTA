@@ -31,7 +31,7 @@ python3 ota.py
 
  * According to the  `ro_fota_version ` attribute, the server provides ota.zip to upgrade from the current device version to the latest version
    
-* If your   `ro_fota_version ` n is too old, the server will most likely not return updates because the manufacturer has stopped supporting the device.
+* If your   `ro_fota_version `  is too old, the server will most likely not return updates because the manufacturer has stopped supporting the device.
 * To patch images, extract the OTA zip and use [imgpatchtools tools](https://github.com/erfanoabdi/imgpatchtools).
 
 ### Off topic: According to laboratory research, adups collect a large amount of user privacy indiscriminately
