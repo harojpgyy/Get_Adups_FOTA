@@ -43,7 +43,7 @@ DcMobileStatus.json - minimal device diagnosNc data
 DcRootInfo.json - file lisNng of /system/bin and /system/xbin directories  
 DcTellMessage.json - the user’s call log and text metadata with Nmestamps  
 dc_browser_his.json - the user’s browser history
-* Exploit the vulnerability to extract and further obtain device information
+* Exploit vulnerabilities to escalate privileges and further obtain device information
 * ........
 
 You can choose to disable com.adups.fota, which keeps sending requests to the server and reduces battery life.
