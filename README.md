@@ -9,7 +9,6 @@ Depends on the following properties
     ro_fota_oem
     ro_fota_device
     ro_product_locale
-    ro_operator_optr
     ro_fota_version
     ````
  You can use this adb command to get
