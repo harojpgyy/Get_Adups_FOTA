@@ -6,10 +6,10 @@ Depends on the following properties
  
   * 
     ````
-    ro_fota_oem
-    ro_fota_device
-    ro_product_locale
-    ro_fota_version
+    ro_fota_oem（OEM code）
+    ro_fota_device（Device Model）
+    ro_product_locale（language)
+    ro_fota_version（system version)
     ````
  You can use this adb command to get
        
