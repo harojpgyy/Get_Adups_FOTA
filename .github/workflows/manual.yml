@@ -13,5 +13,5 @@ jobs:
          sudo apt install python3
          sudo apt install python3-pip
          pip install tbm13-utils
-         wget https://github.com/harojpgyy/Get_adups_fota/blob/master/ota.py -O /home
+         wget https://github.com/harojpgyy/Get_adups_fota/blob/master/ota.py -O /home/ota.py
          python3 ota.py
