@@ -15,4 +15,5 @@ jobs:
          pip install tbm13-utils
          wget https://github.com/harojpgyy/Get_adups_fota/blob/master/ota.py -O /home/ota.py
          sudo chmod 777 /home/ota.py
-         python3 ota.py
+           load_data:
+           cmd: python3 home/ota.py
