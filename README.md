@@ -1,7 +1,7 @@
 ![icon](https://github.com/user-attachments/assets/e4436ac8-8583-4e6c-8258-eb4b96afbb59)
 ![cropped-Adups-768x174-1](https://github.com/user-attachments/assets/a0f9d6c0-a7ee-4ef0-9a35-be00e9983659)
 `com.adups.fota`
-
+Another branch of iot version: https://github.com/harojpgyy/Get_Adups_FOTA/tree/abupdate.fota_demo_iot?tab=readme-ov-file
 Depends on the following properties
  
   * 
