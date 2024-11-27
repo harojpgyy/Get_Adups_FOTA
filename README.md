@@ -1,4 +1,5 @@
-![icon](https://github.com/user-attachments/assets/e4436ac8-8583-4e6c-8258-eb4b96afbb59)
+![icon](https://github.com/user-attachments/assets/e4436ac8-8583-4e6c-8258-eb4b96afbb59)![new_i](https://github.com/user-attachments/assets/edd27307-21e2-41c6-9b98-edfc4efd3f77)
+
 ![cropped-Adups-768x174-1](https://github.com/user-attachments/assets/a0f9d6c0-a7ee-4ef0-9a35-be00e9983659)
 `com.adups.fota`
 
